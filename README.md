@@ -16,7 +16,7 @@ npm run database
 ```
 npm run dev
 ```
-![imgage alt](image url)
+![imgage alt](https://github.com/fusion-git/react-dom/blob/0434263a80a5f33f43d3502e8b9c76e062b726b9/Screenshot.png)
 
 ## Aditional commands
 
