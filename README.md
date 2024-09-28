@@ -1,14 +1,38 @@
 # React + Vite
 
-Title: Simple CRUD application.
+This project run in a Node enviroment, if you don't have already insalled on your machine [Node Js](https://nodejs.org/en). <br /> Version used for this project 20.17.0 LTS. </br /> For setup open the terminal and run the fallowing command: 
 
-1. If you don't have node in your machine (https://nodejs.org/en).
-Version used for this project 20.17.0 LTS.
+## Project setup
+```
+npm install
+```
 
-2. Open terminal in root folder and run 'npm install'.
-This command will download all necessary files for this project.
+### Spin-up a fake restAPI endpoint to act like a database
+```
+npm run database
+```
+   Next command need to run in a new terminal without closing the previous one
+### Compiles and hot-reloads for development
+```
+npm run dev
+```
+![imgage alt](image url)
 
-3. After the installation is finishd, type 'npm run database'.
-Spin-up a fake rest-full APi endpoint. 
+## Aditional commands
 
-4. Open a new terminal and type 'npm run dev'.
+### Compiles and minifies for production
+```
+npm run build
+```
+### Preview the production bundle
+```
+npm run preview
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
