@@ -1,6 +1,6 @@
 # React + Vite
 
-This project run in a Node enviroment, if you don't have already insalled on your machine [Node Js](https://nodejs.org/en). <br /> Version used for this project 20.17.0 LTS. </br /> For setup open the terminal and run the fallowing command: 
+This project run in a Node enviroment, if you don't have already insalled on your machine [Node Js](https://nodejs.org/en). <br /> Version used for this project 20.17.0 LTS. <br /> For setup open the terminal and run the fallowing command: 
 
 ## Project setup
 ```
